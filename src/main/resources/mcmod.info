@@ -1,0 +1,16 @@
+[
+{
+  "modid": "firewand",
+  "name": "FireWand",
+  "description": "A fire wand for taking care of pesky pixelmon/players.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Varijon"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
